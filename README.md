@@ -1,0 +1,3 @@
+- 👋 Olá, sou @JoseLucas714
+- 👀 Estou interessado em diversos tipos de linguagem
+- 🌱 Atualmente estou aprendendo a linguagem C
